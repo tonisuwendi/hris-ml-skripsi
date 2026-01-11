@@ -1,7 +1,6 @@
 flask
 pandas
 joblib
-shap
 python-dotenv
 scikit-learn
 numpy
