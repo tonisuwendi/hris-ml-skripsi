@@ -1,6 +1,7 @@
 flask
-flask-cors
 pandas
-numpy
-scikit-learn
 joblib
+shap
+python-dotenv
+scikit-learn
+numpy
